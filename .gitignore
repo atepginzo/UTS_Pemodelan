@@ -1,0 +1,14 @@
+Folder Virtual Environment
+
+venv/
+*.venv/
+
+File cache Python
+
+pycache/
+*.pyc
+
+File spesifik OS (opsional tapi bagus)
+
+.DS_Store
+Thumbs.db
